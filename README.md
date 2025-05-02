@@ -1,7 +1,7 @@
 # RestfulBooker
 Repository created with the purpose to push an assignment solution.
 
-This project contains automated smoke, positive, negative, and boundary tests for the Restful Booker API using C#, RestSharp, and xUnit.
+This project contains automated smoke, positive, negative, and ping tests for the Restful Booker API using C#, RestSharp, and xUnit.
 
 🔧 Technologies Used
 C# (.NET Core)
@@ -150,6 +150,8 @@ HTTP/1.1 201 Created
 The `/ping` endpoint should return a **200 OK** status code instead of 
 **201 Created** as it is a health-check endpoint and not creating any resources. 
 Returning `200 OK` would better align with the expected behavior for such endpoints.
+###
+
 
 👩‍💻 Author
 Djurdjina Komlenovic
