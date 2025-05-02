@@ -6234,11 +6234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\RestfulBooker\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic.csproj",
       "projectName": "Test_RestfulBooker_Djurdjina_Komlenovic",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\RestfulBooker\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\RestfulBooker\\Test_RestfulBooker_Djurdjina_Komlenovic\\Test_RestfulBooker_Djurdjina_Komlenovic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
